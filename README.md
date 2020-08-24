@@ -1,10 +1,14 @@
 # my_coin_ticker
 
-A new Flutter application.
+Check coins rate.
 
 ## Demo
 
 https://drive.google.com/file/d/1-zuiuRQ9_Rjot_bYTCV36PxXkmZJQqip/view?usp=sharing
+
+## .apk
+
+https://drive.google.com/file/d/1Ule8f54RNLtXTMf6B8ke21p28kZUaeqT/view?usp=sharing
 
 ## Getting Started
 
